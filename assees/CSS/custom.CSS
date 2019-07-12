@@ -192,7 +192,9 @@ header {
     }
 
 }
-
+body{
+  text-align: center;
+}
 main{
 
     padding:30px 50px;
