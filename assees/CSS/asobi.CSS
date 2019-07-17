@@ -1,0 +1,14 @@
+
+.moimg7 {
+	overflow: hidden;
+	width: 350px;
+	height: 350px
+}
+.moimg7 img {
+        width: 350px;
+        transform: scale(0.5, 0.5);
+	display: block;
+	transition: 0.5s;
+}
+.moimg7 img:hover {
+	transform: scale(1,1);}
